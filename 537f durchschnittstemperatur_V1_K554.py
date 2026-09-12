@@ -1,0 +1,6 @@
+print("Programm zur Berechnung einer Durchschnittstemperatur \n")
+print("Geben Sie bitte drei Temperaturwerte in °C ein!")
+temperatur1 = float(input("1. Wert: "))
+temperatur2 = float(input("2. Wert: "))
+temperatur3 = float(input("3. Wert: "))
+print( "Sie haben folgende Temperaturen eingeben: {0} °C, {1} °C, {2} °C" .format(temperatur1,temperatur2,temperatur3))
