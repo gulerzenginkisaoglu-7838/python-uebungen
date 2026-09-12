@@ -11,3 +11,6 @@ Python-Übungsaufgaben im Rahmen der Umschulung zum Fachinformatiker Systeminteg
 - **Sonstiges:** Logikaufgabe "Bananen" (Piraten-Rätsel)
 
 *Hinweis: Die Lösung zur Bananen-Aufgabe (B010_Bananen.py) wurde mit Unterstützung von Claude auf Basis der ursprünglichen Aufgabenstellung rekonstruiert und vervollständigt.*
+
+---
+*Hinweis: Bei der Fehlerbehebung und Vervollständigung einzelner Dateien wurde Claude (Anthropic) unterstützend eingesetzt.*
